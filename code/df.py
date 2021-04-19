@@ -1,4 +1,5 @@
-
+import pandas as pd
+from glob import glob
 #add all tickers to dataframe
 files = glob(f'{path}/*.csv')
 full_df = None
