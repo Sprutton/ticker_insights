@@ -10,7 +10,7 @@ q.ApiConfig.api_key = q_key
 path = '../data/ticker_data'
 
 #create ticker list
-ticker_df = pd.read_csv('../data/ticker_list.csv')
+ticker_df = pd.read_csv('../data/test_data/ticker_list.csv')
 ticker_df['Ticker'] = ticker_df['Ticker'].str.replace('.','_')
 symbols = ticker_df['Ticker'].tolist()
 
