@@ -1,3 +1,5 @@
+
+
 # Working Towards An "Intelligent Portfolio"
 
 * Explanation 
@@ -342,10 +344,17 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 ![matplotlib](https://upskillanywhere.com/wp-content/uploads/2020/10/iu-1.png)
 ---
 * Plots created.
+## Timelaps plots of returns of test tickers 
 
+https://user-images.githubusercontent.com/73854785/116838033-c1791180-ab81-11eb-871c-0ae6813ed846.mp4
+---
+## 3d plot of expected volatility - expected return - sharpe ratio
+![3ddownload](https://user-images.githubusercontent.com/73854785/116838392-0f424980-ab83-11eb-8e1e-57a0431c10ae.png)
+
+## bar plots of individual expected volatility - expected return - sharpe ratio values over time 
+![plotzzzCapture](https://user-images.githubusercontent.com/73854785/116838467-503a5e00-ab83-11eb-9316-d8bc2284cc93.PNG)
 
 ---
 
 # Contributors
-
-
+This project was created By Sam Prutton & Javier Barrios 
