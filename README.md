@@ -346,7 +346,7 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 * Plots created.
 ## Timelaps plots of returns of test tickers 
 
-https://user-images.githubusercontent.com/73854785/116838033-c1791180-ab81-11eb-871c-0ae6813ed846.mp4
+![timelaps](https://user-images.githubusercontent.com/73854785/116838033-c1791180-ab81-11eb-871c-0ae6813ed846.mp4)
 ---
 ## 3d plot of expected volatility - expected return - sharpe ratio
 ![3ddownload](https://user-images.githubusercontent.com/73854785/116838392-0f424980-ab83-11eb-8e1e-57a0431c10ae.png)
